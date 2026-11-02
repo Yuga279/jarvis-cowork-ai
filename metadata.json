@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Cowork AI",
+  "description": "Jarvis-inspired autonomous voice assistant and Claude Cowork workspace automating Google Workspace, web search, and multi-step complex workflows.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
